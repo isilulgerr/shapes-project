@@ -18,3 +18,6 @@ if __name__ == "__main__":
     square = Square(4)
     print("Circle area:", circle.area())
     print("Square area:", square.area())
+
+def perimeter(self):
+    return 2 * 3.14 * self.radius
