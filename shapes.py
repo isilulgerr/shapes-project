@@ -4,7 +4,7 @@ class Circle:
         self.radius = radius
 
     def area(self):
-        return 3.14159 * (self.radius ** 2)
+        return 3.14 * (self.radius ** 2)
 
 class Square:
     def __init__(self, side):
